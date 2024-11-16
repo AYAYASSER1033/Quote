@@ -1,0 +1,35 @@
+@media screen and (min-width:0px)
+ {
+    .backing-itme
+    {
+width:100%;
+    }
+}
+@media screen and (min-width:600px)
+ {
+    .backing-itme
+    {
+width:50%;
+    }
+}
+@media screen and (min-width:768px)
+ {
+    .backing-itme
+    {
+width:33.3333%;
+    }
+}
+@media screen and (min-width:992px)
+ {
+    .backing-itme
+    {
+width:25%;
+    }
+}
+@media screen and (min-width:1200px) and(max-width:1800px)
+ {
+    .backing-itme
+    {
+width:50%;
+    }
+}
